@@ -8,3 +8,5 @@ The goal of the project was to build a "smart night lamp" system, and my objecti
 LDR module senses ambient light, the onboard potentiometer (which is pre-installed in the LDR module) defines the darkness threshold, when it gets dark, the module output (DO) goes LOW and the Arduino detects this signal and turns ON the transistor and the led lights up.
 I can't wait to start my second project, it was very fun tbh.
 
+Code (Day 1)
+- Arduino sketch: [`SmartNightLamp.ino`](../code/SmartNightLamp.ino)
