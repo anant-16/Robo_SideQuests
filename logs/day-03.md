@@ -1,6 +1,6 @@
 # Day 3 – Ultrasonic Distance Indicator
 
-**Date:** 12-02-2026
+**Date:** 22-02-2026
 
 I built an ultrasonic distance indicator using the **Arduino Uno**, **HC-SR04**, 5 LEDs, and a HYDZ buzzer. The goal was to understand how distance is calculated using echo pulse timing and how different distance ranges can control multiple outputs.
 
