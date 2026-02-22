@@ -8,4 +8,4 @@ The system measures distance continuously, lights up LEDs based on how close an 
 
 Code (Day 3)
 
-Arduino sketch: Ultrasonicdistancedetector.ino
+Arduino sketch: [`Ultrasonicdistancedetector.ino`](../code/Ultrasonicdistancedetector.ino)
